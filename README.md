@@ -7,6 +7,10 @@ bt1.cfg:三方图lockdown封锁m1,过滤掉人物生成和一些其他属性,解
 
 bt4.cfg:三方图lockdown封锁m4,同上,解决了真人玩家佐伊会被传送卡死的问题
 
+c1m1_hotel.cfg:官图死亡中心m1,开局放置小枪
+
+c3m1_rurallighthouse.cfg:三方图Unrelenting Morning无情黎明m1,开局放置小枪
+
 c6m1_riverbank.cfg:官图短暂时刻m1,开局放置小枪,删除一代人物生成及相关实体
 
 c6m3_port.cfg:官图短暂时刻m3,删除一代人物生成及相关实体
@@ -34,6 +38,8 @@ l4d2_daybreak01_hotel.cfg:三方图Day break黎明的m1,如果队伍中有玩家
 l4d2_stadium1_apartment.cfg:三方图suicide blitz2闪电突袭2的m1,开局放置小枪
 
 msd1_town.cfg:三方图Farewell Chenming再见了晨茗m1,开局放置随机小枪
+
+nc_forest.cfg:三方图North Chaos北境乱象m1,开局放置铁喷(微冲已经有了)
 
 q_ancienttown.cfg:三方图hometown故乡m1,开局放置小枪
 
