@@ -11,7 +11,7 @@ c6m1_riverbank.cfg:官图短暂时刻m1,开局放置小枪,删除一代人物生
 
 c6m3_port.cfg:官图短暂时刻m3,删除一代人物生成及相关实体
 
-dkr_m1_motel.cfg:三方图c2改dark_carnival_remix,改动来自https://github.com/fantasylidong/CompetitiveWithAnne/blob/master/cfg/stripper/AnneHappy/maps/dkr_m1_motel.cfg
+dkr_m1_motel.cfg:三方图c2改dark_carnival_remix,https://github.com/fantasylidong/CompetitiveWithAnne/blob/master/cfg/stripper/AnneHappy/maps/dkr_m1_motel.cfg
 
 dkr_m2_carnival.cfg
 
