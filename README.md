@@ -41,4 +41,4 @@ rw_beach1.cfg:三方图Infection Overdrive超速感染m1,开局放置小枪
 
 tropic_01.cfg:三方图Tropical Thunder热带惊雷m1,开局放置小枪
 
-https://steamcommunity.com/id/Si_Xin/
+如有其他提议请@https://steamcommunity.com/id/Si_Xin/
