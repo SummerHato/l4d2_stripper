@@ -1,4 +1,5 @@
 这里是一些自己的战役stripper改图文件,大部分只是开局放枪
+
 用法:将文件夹放到服务器addons里
 
 atc3m1_highway.cfg:三方图Dark Amusement,去除开局m60和榴弹,放置小枪
