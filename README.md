@@ -1,5 +1,4 @@
-这里是一些自己的战役stripper改图文件,大部分只是开局放枪
-用法:将文件夹放到服务器addons里
+这里是一些自己的战役stripper改图文件,大部分只是开局放枪,用法:将文件夹放到服务器addons里
 
 atc3m1_highway.cfg:三方图Dark Amusement黑暗游乐园m1,去除开局m60和榴弹,放置小枪
 
@@ -11,9 +10,9 @@ c1m1_hotel.cfg:官图死亡中心m1,开局放置小枪
 
 c3m1_rurallighthouse.cfg:三方图Unrelenting Morning无情黎明m1,开局放置小枪
 
-c6m1_riverbank.cfg:官图短暂时刻m1,开局放置小枪,删除一代人物生成及相关实体
+c6m1_riverbank.cfg:官图短暂时刻m1,开局放置小枪,删除一代人物生成及相关实体,防止使用一代人物的玩家被传送
 
-c6m3_port.cfg:官图短暂时刻m3,删除一代人物生成及相关实体
+c6m3_port.cfg:官图短暂时刻m3,删除一代人物生成及相关实体,同上
 
 dkr_m1_motel.cfg:三方图c2改dark_carnival_remix,每一关都添加了克局和witch
 
