@@ -26,7 +26,7 @@ dkr_m5_stadium.cfg
 
 l4d_dbd2dc_anna_is_gone.cfg:三方图Dead before Dawn DC活死人黎明的m1,开局放置小枪
 
-l4d_dbd2dc_clean_up.cfg:三方图Dead before Dawn DC活死人黎明的m3,直接套用zonemod的stripper改图文件,解决了战役中m3会炸服的问题https://github.com/SirPlease/L4D2-Competitive-Rework/blob/master/cfg/stripper/zonemod/maps/l4d_dbd2dc_clean_up.cfg
+l4d_dbd2dc_clean_up.cfg:三方图Dead before Dawn DC活死人黎明的m3,直接套用zonemod的[stripper文件](https://github.com/SirPlease/L4D2-Competitive-Rework/blob/master/cfg/stripper/zonemod/maps/l4d_dbd2dc_clean_up.cfg),解决了战役中m3会炸服的问题
 
 l4d_tbm_1.cfg:三方图The Bloody Moors血腥荒野m1,开局放置小枪
 
@@ -46,4 +46,4 @@ rw_beach1.cfg:三方图Infection Overdrive超速感染m1,开局放置小枪
 
 tropic_01.cfg:三方图Tropical Thunder热带惊雷m1,开局放置小枪
 
-如有其他提议请@https://steamcommunity.com/id/Si_Xin/
+[如有其他提议请找我](https://steamcommunity.com/id/Si_Xin/)
