@@ -24,17 +24,27 @@ dkr_m4_ferris.cfg
 
 dkr_m5_stadium.cfg
 
+l4d2_city17_01.cfg:三方图city17的m1,开局放置小枪
+
+l4d2_daybreak01_hotel.cfg:三方图Day break黎明的m1,如果队伍中有玩家比尔,那么重开后比尔会被传送到一个重生点,该文件修复了这个问题
+
+l4d2_stadium1_apartment.cfg:三方图suicide blitz2闪电突袭2的m1,开局放置小枪
+
 l4d_dbd2dc_anna_is_gone.cfg:三方图Dead before Dawn DC活死人黎明的m1,开局放置小枪
 
 l4d_dbd2dc_clean_up.cfg:三方图Dead before Dawn DC活死人黎明的m3,直接套用zonemod的[stripper文件](https://github.com/SirPlease/L4D2-Competitive-Rework/blob/master/cfg/stripper/zonemod/maps/l4d_dbd2dc_clean_up.cfg),解决了战役中m3会炸服的问题
 
 l4d_tbm_1.cfg:三方图The Bloody Moors血腥荒野m1,开局放置小枪
 
-l4d2_city17_01.cfg:三方图city17的m1,开局放置小枪
+l4d_zero01_south.cfg:三方图Absolute Zero绝对零度m1,每一关删除了大量实体,防止实体过多炸服
 
-l4d2_daybreak01_hotel.cfg:三方图Day break黎明的m1,如果队伍中有玩家比尔,那么重开后比尔会被传送到一个重生点,该文件修复了这个问题
+l4d_zero02_complex.cfg:m2
 
-l4d2_stadium1_apartment.cfg:三方图suicide blitz2闪电突袭2的m1,开局放置小枪
+l4d_zero03_chasm.cfg
+
+l4d_zero04_steppes.cfg
+
+l4d_zero05_aerith.cfg
 
 msd1_town.cfg:三方图Farewell Chenming再见了晨茗m1,开局放置随机小枪
 
