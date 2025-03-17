@@ -36,9 +36,9 @@ l4d_dbd2dc_clean_up.cfg:三方图Dead before Dawn DC活死人黎明的m3,直接�
 
 l4d_tbm_1.cfg:三方图The Bloody Moors血腥荒野m1,开局放置小枪
 
-l4d_zero01_south.cfg:三方图Absolute Zero绝对零度m1,每一关删除了大量实体,防止实体过多炸服
+l4d_zero01_south.cfg:三方图Absolute Zero绝对零度,每一关删除了大量实体,防止实体过多炸服
 
-l4d_zero02_complex.cfg:m2
+l4d_zero02_complex.cfg
 
 l4d_zero03_chasm.cfg
 
