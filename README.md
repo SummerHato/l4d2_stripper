@@ -26,7 +26,7 @@ dkr_m5_stadium.cfg
 
 l4d2_city17_01.cfg:三方图city17的m1,开局放置小枪
 
-l4d2_daybreak01_hotel.cfg:三方图Day break黎明的m1,如果队伍中有玩家比尔,那么重开后比尔会被传送到一个重生点,该文件修复了这个问题
+l4d2_daybreak01_hotel.cfg:三方图Day break黎明的m1,如果队伍中有玩家比尔,那么重开后比尔会被传送到一个重生点,已修复这个问题
 
 l4d2_stadium1_apartment.cfg:三方图suicide blitz2闪电突袭2的m1,开局放置小枪
 
@@ -51,9 +51,5 @@ msd1_town.cfg:三方图Farewell Chenming再见了晨茗m1,开局放置随机小�
 nc_forest.cfg:三方图North Chaos北境乱象m1,开局放置铁喷(微冲已经有了)
 
 q_ancienttown.cfg:三方图hometown故乡m1,开局放置小枪
-
-rw_beach1.cfg:三方图Infection Overdrive超速感染m1,开局放置小枪
-
-tropic_01.cfg:三方图Tropical Thunder热带惊雷m1,开局放置铁喷(微冲已经有了)
 
 [如有其他提议请找我](https://steamcommunity.com/id/Si_Xin/)
