@@ -54,6 +54,6 @@ q_ancienttown.cfg:三方图hometown故乡m1,开局放置小枪
 
 rw_beach1.cfg:三方图Infection Overdrive超速感染m1,开局放置小枪
 
-tropic_01.cfg:三方图Tropical Thunder热带惊雷m1,开局放置小枪
+tropic_01.cfg:三方图Tropical Thunder热带惊雷m1,开局放置铁喷(微冲已经有了)
 
 [如有其他提议请找我](https://steamcommunity.com/id/Si_Xin/)
