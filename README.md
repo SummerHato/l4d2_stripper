@@ -24,6 +24,8 @@ dkr_m4_ferris.cfg
 
 dkr_m5_stadium.cfg
 
+hcw1_aircrash.cfg:三方图Heaven Can Wait II天堂可待2的m1,开局放置小枪
+
 l4d2_city17_01.cfg:三方图city17的m1,开局放置小枪
 
 l4d2_daybreak01_hotel.cfg:三方图Day break黎明的m1,如果队伍中有玩家比尔,那么重开后比尔会被传送到一个重生点,已修复这个问题
@@ -36,7 +38,7 @@ l4d_dbd2dc_clean_up.cfg:三方图Dead before Dawn DC活死人黎明的m3,直接�
 
 l4d_tbm_1.cfg:三方图The Bloody Moors血腥荒野m1,开局放置小枪
 
-l4d_zero01_south.cfg:三方图Absolute Zero绝对零度,每一关删除了大量实体,防止实体过多炸服
+l4d_zero01_south.cfg:三方图Absolute Zero绝对零度,每一关删除了大量无用实体,防止实体过多炸服
 
 l4d_zero02_complex.cfg
 
