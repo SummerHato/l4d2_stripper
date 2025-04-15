@@ -54,4 +54,6 @@ nc_forest.cfg:三方图North Chaos北境乱象m1,开局放置铁喷(微冲已经
 
 q_ancienttown.cfg:三方图hometown故乡m1,开局放置小枪
 
+sd04_apcescape.cfg:三方图Snow Den雪巢的m4救援关,过滤四个点位,该点位会导致一代玩家被关小黑屋,此cfg解决了这个问题
+
 [如有其他提议请找我](https://steamcommunity.com/id/Si_Xin/)
