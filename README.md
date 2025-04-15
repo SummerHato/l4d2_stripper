@@ -28,7 +28,7 @@ hcw1_aircrash.cfg:三方图Heaven Can Wait II天堂可待2的m1,开局放置小�
 
 l4d2_city17_01.cfg:三方图city17的m1,开局放置小枪
 
-l4d2_daybreak01_hotel.cfg:三方图Day break黎明的m1,如果队伍中有玩家比尔,那么重开后比尔会被传送到一个重生点,已修复这个问题
+l4d2_daybreak01_hotel.cfg:三方图Day break黎明的m1,过滤一个点位,如果队伍中有一代角色,那么重开后会被传送到奇怪的地方,此cfg修复了这个问题
 
 l4d2_stadium1_apartment.cfg:三方图suicide blitz2闪电突袭2的m1,开局放置小枪
 
@@ -54,6 +54,6 @@ nc_forest.cfg:三方图North Chaos北境乱象m1,开局放置铁喷(微冲已经
 
 q_ancienttown.cfg:三方图hometown故乡m1,开局放置小枪
 
-sd04_apcescape.cfg:三方图Snow Den雪巢的m4救援关,过滤四个点位,该点位会导致一代玩家被关小黑屋,此cfg解决了这个问题
+sd04_apcescape.cfg:三方图Snow Den雪巢的m4救援关,过滤四个点位,该点位会导致一代玩家被关小黑屋,此cfg修复了这个问题
 
 [如有其他提议请找我](https://steamcommunity.com/id/Si_Xin/)
