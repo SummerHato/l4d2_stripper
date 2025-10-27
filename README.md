@@ -2,6 +2,8 @@
 
 [atc3m1_highway.cfg](https://github.com/SummerHato/stripper/blob/main/stripper/maps/atc3m1_highway.cfg):三方图Dark Amusement黑暗游乐园m1,去除开局m60和榴弹,放置小枪
 
+[bjrtcre_m1.cfg](https://github.com/SummerHato/l4d2_stripper/blob/main/stripper/maps/bjrtcre_m1.cfg):三方图no echo remastered音讯全无重制版m1,解决了一代生还会被传送到其他地方的问题
+
 [bt1.cfg](https://github.com/SummerHato/stripper/blob/main/stripper/maps/bt1.cfg):三方图lockdown封锁m1,过滤掉人物生成和一些其他属性,解决了真人玩家比尔会被传送卡死的问题
 
 [bt4.cfg](https://github.com/SummerHato/stripper/blob/main/stripper/maps/bt4.cfg):三方图lockdown封锁m4,同上,解决了真人玩家佐伊会被传送卡死的问题
