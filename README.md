@@ -16,7 +16,7 @@
 
 [c6m3_port.cfg](https://github.com/SummerHato/stripper/blob/main/stripper/maps/c6m3_port.cfg):官图短暂时刻m3,删除一代人物生成及相关实体,同上
 
-[dkr_m1_motel.cfg](https://github.com/SummerHato/stripper/blob/main/stripper/maps/dcr_m1_hotel.cfg):三方图c2改dark_carnival_remix,每一关都添加了克局和witch
+[dkr_m1_motel.cfg](https://github.com/SummerHato/stripper/blob/main/stripper/maps/dkr_m1_motel.cfg):三方图c2改dark_carnival_remix,每一关都添加了克局和witch
 
 [dkr_m2_carnival.cfg](https://github.com/SummerHato/stripper/blob/main/stripper/maps/dkr_m2_carnival.cfg)
 
